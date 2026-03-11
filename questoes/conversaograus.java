@@ -1,7 +1,4 @@
-package JavaQuestoes.questoes;
 import java.util.Scanner;
-
-
 public class conversaograus {
     public static void main(String [] args){
         Scanner teclado = new Scanner(System.in);
